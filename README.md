@@ -1,3 +1,4 @@
+![logo](https://github.com/Muhammad-Afzal-Bhatti/Muhammad-Afzal-Bhatti/blob/main/Linkden%20banner.png)
 <h1 align="center">Hi 👋, I'm M.AFZAL</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/f9/ba/23/f9ba232d6b18c80b3a95c1ec8dc1c796.gif">
